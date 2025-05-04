@@ -20,8 +20,8 @@ It provides a simple in-memory task list with full CRUD support.
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/NaveiShelly/ServerShaam.git
+cd server
 ```
 
 ### 2. Run the backend
