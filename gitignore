@@ -1,0 +1,21 @@
+# .NET build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code / Rider / JetBrains
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Configuration
+appsettings.*.json
+
+# OS
+.DS_Store
+Thumbs.db
